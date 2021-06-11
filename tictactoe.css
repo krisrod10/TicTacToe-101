@@ -1,16 +1,21 @@
 .jumbotron {
   margin: 5% auto;
   margin-left: 43%;
+
 }
 
 td {
-  height:150px;
-  width:150px;
+  height:190px;
+  width:300px;
   text-align: center;
   border: 5px solid black;
   font-size: 100px;
+  background-image: url(https://th.bing.com/th/id/OIP.zFXv27PeGV11uKRFx7Lf0AHaEL?w=319&h=180&c=7&o=5&pid=1.7);
 }
 
 table {
   margin: auto auto;
+}
+.head{
+  background: blanchedalmond;
 }

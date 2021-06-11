@@ -106,3 +106,4 @@ const resetBoard = () => {
     squares[i].innerHTML = null
   }  
 }
+
